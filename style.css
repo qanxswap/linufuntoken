@@ -1,0 +1,135 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(.//img/background.png);
+    width: auto;
+    height: auto;
+}
+.navbar-nav a{
+    color: white !important;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Bye-Now{
+    background-color: rgb(84, 32, 168);
+    padding: 1px;
+    border-radius: 15px;
+    
+}
+.Bye-Now:hover{
+    color: red !important;
+    background-color: seashell;
+}
+.content-1{
+    color: white;
+    line-height: 2em;
+}
+.btn-3 a{
+    color: rgb(221, 203, 203);
+    list-style: none;
+    text-decoration: none;
+    border: 1px solid rgb(180, 180, 196);
+    border-radius: 8px;
+    padding: 5px;
+}
+.gradiyan-1{
+    background-color: rgb(138, 96, 194);
+    box-sizing: border-box;
+    border-radius: 25px;
+    padding: 30px;
+    opacity: 70%;
+    line-height: 2em;
+    margin-top: -200px !important;
+   
+}
+.gradiyan-1 a{
+    background-color: rgb(193, 152, 231);
+    padding: 0%;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    
+}
+.cart{
+    height: 500px !important;
+    margin-left: 200px;
+}
+.mating{
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+}
+.mating img{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.screenshot1 img{
+    height: auto;
+    text-align: center;
+
+}
+.screenshot1{
+    margin-top: 40px;
+    text-decoration: none;
+    text-align: left;
+    color: white;
+    padding: 40px !important;
+    line-height: 2em;
+}
+.text-iten{
+    margin-top: 50px !important;
+    
+}
+.screenshot1 a{
+    text-decoration: none;
+    border: 1px solid blue;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.Subscribe input{
+    border: 1px solid rgba(202, 50, 240, 0.548);
+    background-color: rgb(81, 31, 138);
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+}
+.Subscribe button{
+    background-color: rgb(87, 33, 175);
+    border: 1px solid wheat;
+    border-radius: 10px;
+    padding: 3px;
+    color: wheat;
+}
+.Subscribe{
+    color: wheat;
+    text-align: center;
+    margin-bottom: 20px;
+}
+footer{
+    color: wheat;
+    text-align: center;
+    margin-top: 150px;
+    font-family: sans-serif;
+    font-size: small;
+}
+footer a{
+    text-decoration: none;
+    color: wheat;
+    
+}
+footer ul{
+    list-style: none;
+}
+.social-links a{
+    border: 1px solid wheat;
+    padding: 4px;
+    border-radius: 4px;
+}
